@@ -1,16 +1,16 @@
                                                     **LivFit: A Comprehensive Health and Diet Recommendation System**
 Table of Contents
 1.	General Information
-  •	Motivation
-  •	Overview of LivFit
-2.	Development
-  •	Model Development
-  •	Dataset (Receipes.csv , Dataset.csv)
-  •	Backend Development
-  •	Frontend Development
-3.  Technologies Used
-4.	Setup Instructions
-5.	Conclusion
+        •	Motivation
+        •	Overview of LivFit
+3.	Development
+        •	Model Development
+        •	Dataset (Receipes.csv , Dataset.csv)
+        •	Backend Development
+        •	Frontend Development
+4.  Technologies Used
+5.	Setup Instructions
+6.	Conclusion
 ________________________________________________________________________________
 1. General Information
 Motivation
@@ -31,9 +31,13 @@ ________________________________________________________________________________
 3. Technologies Used
    
 •	Python: 3.11
+
 •	FastAPI: 0.110.0
+
 •	Streamlit: 1.31.1
+
 •	Scikit-learn: 1.4.1.post1
+
 •	Pandas: 2.2.1
 
 ________________________________________________________________________________
