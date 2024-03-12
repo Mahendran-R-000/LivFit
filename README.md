@@ -1,4 +1,4 @@
-                                                    **LivFit: A Comprehensive Health and Diet Recommendation System**
+                                      **LivFit: A Comprehensive Health and Diet Recommendation System**
 Table of Contents
 1.	General Information
    
